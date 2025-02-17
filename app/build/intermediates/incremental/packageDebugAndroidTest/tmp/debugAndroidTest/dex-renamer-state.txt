@@ -1,0 +1,7 @@
+#Mon Nov 18 15:03:07 CST 2024
+base.0=/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/3/classes.dex
+path.0=0/classes.dex
+path.1=3/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

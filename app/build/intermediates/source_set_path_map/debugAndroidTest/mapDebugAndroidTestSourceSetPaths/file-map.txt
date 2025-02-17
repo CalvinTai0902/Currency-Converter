@@ -1,0 +1,4 @@
+com.example.androidtraining1.test.app-androidTest-0 /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/build/generated/res/resValues/androidTest/debug
+com.example.androidtraining1.test.app-mergeDebugAndroidTestResources-1 /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.androidtraining1.test.app-mergeDebugAndroidTestResources-2 /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.androidtraining1.test.app-debugAndroidTest-3 /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

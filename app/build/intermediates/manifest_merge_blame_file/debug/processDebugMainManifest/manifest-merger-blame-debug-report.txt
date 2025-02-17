@@ -1,0 +1,87 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.androidtraining1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:4:22-64
+12
+13    <!--
+14     ??? check is this the correct way to
+15                                                                        request Internet permission
+16    -->
+17    <application
+17-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:6:5-27:19
+18        android:allowBackup="true"
+18-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:7:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.7.0] /Users/calvin/.gradle/caches/transforms-4/52f69dbab50b461ec45c63c0d93b6d92/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:8:9-43
+23        android:label="@string/app_name"
+23-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:9:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:10:9-54
+25        android:supportsRtl="true"
+25-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:11:9-35
+26        android:theme="@style/Theme.AndroidTraining1" >
+26-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:12:9-54
+27        <service
+27-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:13:9-16:39
+28            android:name="com.example.androidtraining1.CurrencyService"
+28-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:14:13-44
+29            android:enabled="true"
+29-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:15:13-35
+30            android:exported="true" />
+30-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:16:13-36
+31
+32        <activity
+32-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:18:9-26:20
+33            android:name="com.example.androidtraining1.MainActivity"
+33-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:19:13-41
+34            android:exported="true" >
+34-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:20:13-36
+35            <intent-filter>
+35-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:21:13-25:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:22:17-69
+36-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:22:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:24:17-77
+38-->/Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:24:27-74
+39            </intent-filter>
+40        </activity>
+41
+42        <provider
+42-->[androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+43            android:name="androidx.startup.InitializationProvider"
+43-->[androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+44            android:authorities="com.example.androidtraining1.androidx-startup"
+44-->[androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+45            android:exported="false" >
+45-->[androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+46            <meta-data
+46-->[androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+47                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+47-->[androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+48                android:value="androidx.startup" />
+48-->[androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+49            <meta-data
+49-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/calvin/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+50                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+50-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/calvin/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+51                android:value="androidx.startup" />
+51-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/calvin/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+52        </provider>
+53    </application>
+54
+55</manifest>

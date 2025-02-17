@@ -1,0 +1,234 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/calvin/.gradle/caches/transforms-4/a56c20230394ec2bd7de320be21f6272/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.material:material:1.5.0] /Users/calvin/.gradle/caches/transforms-4/8e7f3d2eb259368a1bf207e532eadb88/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/calvin/.gradle/caches/transforms-4/4010eb947f8daa77d326a635d007be80/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/calvin/.gradle/caches/transforms-4/9c8dd2e3c8fe6eb6681ee94ff95cfff3/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/calvin/.gradle/caches/transforms-4/956c16d76af0724b298920c26e664b35/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/8e22d5d912444fc638c63bfbe77f8a79/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/calvin/.gradle/caches/transforms-4/4dc3197985c51bf586b0acc6a38aae73/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/calvin/.gradle/caches/transforms-4/59af9767938e9b33b59b2225fb5efbea/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/calvin/.gradle/caches/transforms-4/ba85030eb397fd44e732bab0ba08e55a/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/calvin/.gradle/caches/transforms-4/cc25998ee9fc3d7ee48cfa868dc3d8f8/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/calvin/.gradle/caches/transforms-4/e6a018241327c817936a2c3c9f9c49cc/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/calvin/.gradle/caches/transforms-4/92ba7f4b8f83e0d9e646fe0ef42373c1/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/calvin/.gradle/caches/transforms-4/2d8d9caed21a65c8dc18b32d075a7e29/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/calvin/.gradle/caches/transforms-4/39d9ef9957d60984b27824832cb2f83f/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/calvin/.gradle/caches/transforms-4/fcc72929abf7ab70d5bd488056277013/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/calvin/.gradle/caches/transforms-4/50cb2606853dba48988d7895609596c9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/calvin/.gradle/caches/transforms-4/19d023f3a60eea4cf5eb1c532bab591d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/calvin/.gradle/caches/transforms-4/29bc80d82d8a3a56fea53ee9c152ce36/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/calvin/.gradle/caches/transforms-4/fb5b2ecf6e69dc742d13a10dc2b8ccb4/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/calvin/.gradle/caches/transforms-4/8e0bb89878b3c226dc935b754621b3e2/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/calvin/.gradle/caches/transforms-4/ee17aced1463f9d003acbc6f77379a86/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/calvin/.gradle/caches/transforms-4/52f69dbab50b461ec45c63c0d93b6d92/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/calvin/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/calvin/.gradle/caches/transforms-4/769efae085fb8991a8614cfe06f8c5d4/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/calvin/.gradle/caches/transforms-4/299a6ce5a2466afff24b9592d4e9a93f/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/calvin/.gradle/caches/transforms-4/0313185b65b297256271d28300902eba/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/calvin/.gradle/caches/transforms-4/9802c4da85717c2691a56bcb4243512f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/calvin/.gradle/caches/transforms-4/e184ca6dc9bd5da4917e6d1c8bf92ead/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/calvin/.gradle/caches/transforms-4/fa2380f75d2c5c80552f48bf629e2b79/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/calvin/.gradle/caches/transforms-4/0879dd0db35a493ce96a65fe54ab4aec/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/calvin/.gradle/caches/transforms-4/50cee7bea3b7216f9454a162ed58ac2e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/calvin/.gradle/caches/transforms-4/2b1e75a7ff587f55cb65f5624a121194/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/calvin/.gradle/caches/transforms-4/06899ad34059219eddc5e1f866c33acb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/calvin/.gradle/caches/transforms-4/56685855a7f43274696642742579f188/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/calvin/.gradle/caches/transforms-4/3df8d613639375da4a3e5a2c86a14316/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/calvin/.gradle/caches/transforms-4/8b812f897cbfdb95ce6a244d65e73375/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/calvin/.gradle/caches/transforms-4/9bb3b79649cdbea121acba997f10ea09/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/calvin/.gradle/caches/transforms-4/ff0424837bf49e40fcf9637eab532cef/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/calvin/.gradle/caches/transforms-4/e1691198c5fb7a7a37e58005d2111ae3/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/calvin/.gradle/caches/transforms-4/3c27884ace6d4a661844138aa66278af/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:6:5-27:19
+INJECTED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:6:5-27:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/calvin/.gradle/caches/transforms-4/a56c20230394ec2bd7de320be21f6272/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/calvin/.gradle/caches/transforms-4/a56c20230394ec2bd7de320be21f6272/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.material:material:1.5.0] /Users/calvin/.gradle/caches/transforms-4/8e7f3d2eb259368a1bf207e532eadb88/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /Users/calvin/.gradle/caches/transforms-4/8e7f3d2eb259368a1bf207e532eadb88/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/calvin/.gradle/caches/transforms-4/4010eb947f8daa77d326a635d007be80/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/calvin/.gradle/caches/transforms-4/4010eb947f8daa77d326a635d007be80/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/calvin/.gradle/caches/transforms-4/52f69dbab50b461ec45c63c0d93b6d92/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/calvin/.gradle/caches/transforms-4/52f69dbab50b461ec45c63c0d93b6d92/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/calvin/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/calvin/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/calvin/.gradle/caches/transforms-4/06899ad34059219eddc5e1f866c33acb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/calvin/.gradle/caches/transforms-4/06899ad34059219eddc5e1f866c33acb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/calvin/.gradle/caches/transforms-4/56685855a7f43274696642742579f188/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/calvin/.gradle/caches/transforms-4/56685855a7f43274696642742579f188/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/calvin/.gradle/caches/transforms-4/52f69dbab50b461ec45c63c0d93b6d92/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:12:9-54
+service#com.example.androidtraining1.CurrencyService
+ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:13:9-16:39
+	android:enabled
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:14:13-44
+activity#com.example.androidtraining1.MainActivity
+ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:exported
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/calvin/.gradle/caches/transforms-4/a56c20230394ec2bd7de320be21f6272/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/calvin/.gradle/caches/transforms-4/a56c20230394ec2bd7de320be21f6272/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] /Users/calvin/.gradle/caches/transforms-4/8e7f3d2eb259368a1bf207e532eadb88/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /Users/calvin/.gradle/caches/transforms-4/8e7f3d2eb259368a1bf207e532eadb88/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/calvin/.gradle/caches/transforms-4/4010eb947f8daa77d326a635d007be80/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/calvin/.gradle/caches/transforms-4/4010eb947f8daa77d326a635d007be80/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/calvin/.gradle/caches/transforms-4/9c8dd2e3c8fe6eb6681ee94ff95cfff3/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/calvin/.gradle/caches/transforms-4/9c8dd2e3c8fe6eb6681ee94ff95cfff3/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/calvin/.gradle/caches/transforms-4/956c16d76af0724b298920c26e664b35/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/calvin/.gradle/caches/transforms-4/956c16d76af0724b298920c26e664b35/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/8e22d5d912444fc638c63bfbe77f8a79/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/8e22d5d912444fc638c63bfbe77f8a79/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/calvin/.gradle/caches/transforms-4/4dc3197985c51bf586b0acc6a38aae73/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/calvin/.gradle/caches/transforms-4/4dc3197985c51bf586b0acc6a38aae73/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/calvin/.gradle/caches/transforms-4/59af9767938e9b33b59b2225fb5efbea/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/calvin/.gradle/caches/transforms-4/59af9767938e9b33b59b2225fb5efbea/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/calvin/.gradle/caches/transforms-4/ba85030eb397fd44e732bab0ba08e55a/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/calvin/.gradle/caches/transforms-4/ba85030eb397fd44e732bab0ba08e55a/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/calvin/.gradle/caches/transforms-4/cc25998ee9fc3d7ee48cfa868dc3d8f8/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/calvin/.gradle/caches/transforms-4/cc25998ee9fc3d7ee48cfa868dc3d8f8/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/calvin/.gradle/caches/transforms-4/e6a018241327c817936a2c3c9f9c49cc/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/calvin/.gradle/caches/transforms-4/e6a018241327c817936a2c3c9f9c49cc/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/calvin/.gradle/caches/transforms-4/92ba7f4b8f83e0d9e646fe0ef42373c1/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/calvin/.gradle/caches/transforms-4/92ba7f4b8f83e0d9e646fe0ef42373c1/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/calvin/.gradle/caches/transforms-4/2d8d9caed21a65c8dc18b32d075a7e29/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/calvin/.gradle/caches/transforms-4/2d8d9caed21a65c8dc18b32d075a7e29/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/calvin/.gradle/caches/transforms-4/39d9ef9957d60984b27824832cb2f83f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/calvin/.gradle/caches/transforms-4/39d9ef9957d60984b27824832cb2f83f/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/calvin/.gradle/caches/transforms-4/fcc72929abf7ab70d5bd488056277013/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/calvin/.gradle/caches/transforms-4/fcc72929abf7ab70d5bd488056277013/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/calvin/.gradle/caches/transforms-4/50cb2606853dba48988d7895609596c9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/calvin/.gradle/caches/transforms-4/50cb2606853dba48988d7895609596c9/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/calvin/.gradle/caches/transforms-4/19d023f3a60eea4cf5eb1c532bab591d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/calvin/.gradle/caches/transforms-4/19d023f3a60eea4cf5eb1c532bab591d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/calvin/.gradle/caches/transforms-4/29bc80d82d8a3a56fea53ee9c152ce36/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/calvin/.gradle/caches/transforms-4/29bc80d82d8a3a56fea53ee9c152ce36/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/calvin/.gradle/caches/transforms-4/fb5b2ecf6e69dc742d13a10dc2b8ccb4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/calvin/.gradle/caches/transforms-4/fb5b2ecf6e69dc742d13a10dc2b8ccb4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/calvin/.gradle/caches/transforms-4/8e0bb89878b3c226dc935b754621b3e2/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/calvin/.gradle/caches/transforms-4/8e0bb89878b3c226dc935b754621b3e2/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/calvin/.gradle/caches/transforms-4/ee17aced1463f9d003acbc6f77379a86/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/calvin/.gradle/caches/transforms-4/ee17aced1463f9d003acbc6f77379a86/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/calvin/.gradle/caches/transforms-4/52f69dbab50b461ec45c63c0d93b6d92/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/calvin/.gradle/caches/transforms-4/52f69dbab50b461ec45c63c0d93b6d92/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/calvin/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/calvin/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/calvin/.gradle/caches/transforms-4/769efae085fb8991a8614cfe06f8c5d4/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/calvin/.gradle/caches/transforms-4/769efae085fb8991a8614cfe06f8c5d4/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/calvin/.gradle/caches/transforms-4/299a6ce5a2466afff24b9592d4e9a93f/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/calvin/.gradle/caches/transforms-4/299a6ce5a2466afff24b9592d4e9a93f/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/calvin/.gradle/caches/transforms-4/0313185b65b297256271d28300902eba/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/calvin/.gradle/caches/transforms-4/0313185b65b297256271d28300902eba/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/calvin/.gradle/caches/transforms-4/9802c4da85717c2691a56bcb4243512f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/calvin/.gradle/caches/transforms-4/9802c4da85717c2691a56bcb4243512f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/calvin/.gradle/caches/transforms-4/e184ca6dc9bd5da4917e6d1c8bf92ead/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/calvin/.gradle/caches/transforms-4/e184ca6dc9bd5da4917e6d1c8bf92ead/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/calvin/.gradle/caches/transforms-4/fa2380f75d2c5c80552f48bf629e2b79/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/calvin/.gradle/caches/transforms-4/fa2380f75d2c5c80552f48bf629e2b79/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/calvin/.gradle/caches/transforms-4/0879dd0db35a493ce96a65fe54ab4aec/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/calvin/.gradle/caches/transforms-4/0879dd0db35a493ce96a65fe54ab4aec/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/calvin/.gradle/caches/transforms-4/50cee7bea3b7216f9454a162ed58ac2e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/calvin/.gradle/caches/transforms-4/50cee7bea3b7216f9454a162ed58ac2e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/calvin/.gradle/caches/transforms-4/2b1e75a7ff587f55cb65f5624a121194/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/calvin/.gradle/caches/transforms-4/2b1e75a7ff587f55cb65f5624a121194/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/calvin/.gradle/caches/transforms-4/06899ad34059219eddc5e1f866c33acb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/calvin/.gradle/caches/transforms-4/06899ad34059219eddc5e1f866c33acb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/calvin/.gradle/caches/transforms-4/56685855a7f43274696642742579f188/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/calvin/.gradle/caches/transforms-4/56685855a7f43274696642742579f188/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/calvin/.gradle/caches/transforms-4/3df8d613639375da4a3e5a2c86a14316/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/calvin/.gradle/caches/transforms-4/3df8d613639375da4a3e5a2c86a14316/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/calvin/.gradle/caches/transforms-4/8b812f897cbfdb95ce6a244d65e73375/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/calvin/.gradle/caches/transforms-4/8b812f897cbfdb95ce6a244d65e73375/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/calvin/.gradle/caches/transforms-4/9bb3b79649cdbea121acba997f10ea09/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/calvin/.gradle/caches/transforms-4/9bb3b79649cdbea121acba997f10ea09/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/calvin/.gradle/caches/transforms-4/ff0424837bf49e40fcf9637eab532cef/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/calvin/.gradle/caches/transforms-4/ff0424837bf49e40fcf9637eab532cef/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/calvin/.gradle/caches/transforms-4/e1691198c5fb7a7a37e58005d2111ae3/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/calvin/.gradle/caches/transforms-4/e1691198c5fb7a7a37e58005d2111ae3/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/calvin/.gradle/caches/transforms-4/3c27884ace6d4a661844138aa66278af/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/calvin/.gradle/caches/transforms-4/3c27884ace6d4a661844138aa66278af/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/calvin/Documents/Android/Currency Converter/Currency Converter/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/calvin/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/calvin/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/calvin/.gradle/caches/transforms-4/56685855a7f43274696642742579f188/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/calvin/.gradle/caches/transforms-4/56685855a7f43274696642742579f188/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/calvin/.gradle/caches/transforms-4/490588e2e73715f3bccec80ea6536e9c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/calvin/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/calvin/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/calvin/.gradle/caches/transforms-4/3f3f5ee7cdf7ea41ef440236ab83a03f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

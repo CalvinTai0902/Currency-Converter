@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">匯率轉換</string>
+    <string name="currency_usd">美元</string>
+    <string name="currency_twd">台幣</string>
+    <string name="currency_jpy">日幣</string>
+    <string name="currency_eur">歐元</string>
+    <string name="currency_cny">人民幣</string>
+</resources>

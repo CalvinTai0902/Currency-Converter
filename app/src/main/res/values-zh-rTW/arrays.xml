@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency_list">
+        <item name="currency_usd">美元</item>
+        <item name="currency_twd">台幣</item>
+        <item name="currency_jpy">日幣</item>
+        <item name="currency_eur">歐元</item>
+        <item name="currency_cny">人民幣</item>
+    </string-array>
+</resources>

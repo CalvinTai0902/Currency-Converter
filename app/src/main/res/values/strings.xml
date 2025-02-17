@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="currency_usd">USD</string>
+    <string name="currency_twd">TWD</string>
+    <string name="currency_jpy">JPY</string>
+    <string name="currency_eur">EUR</string>
+    <string name="currency_cny">CNY</string>
+</resources>
