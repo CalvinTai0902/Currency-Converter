@@ -1,1 +1,2 @@
-	A real-time multi-currency conversion application.
+# Currency Converter
+A real-time multi-currency conversion application.
